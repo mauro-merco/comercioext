@@ -1,0 +1,191 @@
+{
+  "nav": {
+    "home": "Home",
+    "topics": "Topics",
+    "people": "People",
+    "news": "News",
+    "analysis": "Analysis",
+    "guides": "Guides",
+    "foreign": "Foreign companies",
+    "german": "Germán Muchico",
+    "cargonet": "CargoNet Group",
+    "resources": "Resources",
+    "contact": "Contact",
+    "search": "Search",
+    "newsletter": "Newsletter",
+    "press": "Press",
+    "topics": "Topics"
+  },
+  "hero": {
+    "tag": "Comercio Exterior PRO",
+    "title": "Foreign trade with judgment.",
+    "subtitle": "Analysis, guides and perspectives to understand international trade and make better decisions.",
+    "cta": "Get analysis",
+    "readMore": "Read full article",
+    "mainStory": "Main story",
+    "secondaryStory": "Featured"
+  },
+  "sections": {
+    "latestAnalysis": "Latest analysis",
+    "germanView": "Germán's perspective",
+    "tradeRadar": "Trade radar",
+    "essentialGuides": "Essential guides",
+    "multimedia": "Multimedia",
+    "newsletter": "Newsletter",
+    "cargoNetBacked": "Backed by CargoNet Group",
+    "foreignCompanies": "Operating in Argentina",
+    "foreignSubtitle": "Context, decisions and risks for international companies",
+    "viewAll": "View all",
+    "viewAnalysis": "View analysis",
+    "viewGuides": "View guides"
+  },
+  "article": {
+    "by": "By",
+    "readTime": "min read",
+    "published": "Published",
+    "updated": "Updated",
+    "inLines": "In brief",
+    "sources": "Sources and methodology",
+    "share": "Share",
+    "copyLink": "Copy link",
+    "linkCopied": "Link copied",
+    "relatedNotes": "Related articles",
+    "reportCorrection": "Report a correction",
+    "editorialNote": "This content is editorial. To learn about CargoNet Group's solutions",
+    "visitCargoNet": "visit cargonetgroup.com",
+    "disclaimer": "Informational content. Does not constitute legal, customs, tax or financial advice."
+  },
+  "foreignPage": {
+    "title": "Setting up in Argentina requires more than opening a company.",
+    "subtitle": "The real operation begins when strategy, regulation, customs, banks and logistics work as a single system.",
+    "panorama": "Overview for an international company",
+    "decisions": "Decisions before establishing",
+    "actors": "Map of actors and agencies",
+    "risks": "Common risks",
+    "methodology": "End-to-end consulting methodology",
+    "cta": "Learn about CargoNet Group's approach"
+  },
+  "germanPage": {
+    "title": "Germán Muchico: a lifetime reading the movement of global trade.",
+    "manifesto": "Manifesto",
+    "timeline": "Career",
+    "expertise": "Areas of expertise",
+    "columns": "Recent columns"
+  },
+  "cargonetPage": {
+    "title": "Your strategic partner in consulting and international logistics",
+    "approach": "End-to-end consulting approach",
+    "services": "Services",
+    "presence": "Presence",
+    "values": "Values",
+    "cta": "Visit CargoNet Group",
+    "ctaSecondary": "Make a corporate inquiry"
+  },
+  "contact": {
+    "title": "Contact",
+    "editorial": "Editorial or press inquiry",
+    "corporate": "Corporate inquiry",
+    "name": "Name",
+    "organization": "Organization / Media",
+    "email": "Email",
+    "subject": "Subject",
+    "message": "Message",
+    "company": "Company",
+    "position": "Position",
+    "country": "Country",
+    "phone": "Phone (optional)",
+    "needType": "Type of need",
+    "privacy": "I accept the privacy policy",
+    "send": "Send",
+    "success": "Message sent successfully",
+    "error": "There was an error. Please try again."
+  },
+  "newsletter": {
+    "title": "Get analysis",
+    "subtitle": "A weekly selection of analysis and tools to make better decisions in foreign trade. No noise, with sources.",
+    "emailPlaceholder": "Your email",
+    "namePlaceholder": "Your name (optional)",
+    "conscept": "I accept receiving the newsletter and can unsubscribe at any time.",
+    "subscribe": "Subscribe",
+    "success": "Thank you for subscribing. Check your email to confirm.",
+    "error": "There was an error. Please try again."
+  },
+  "resources": {
+    "title": "Resources",
+    "subtitle": "Tools, checklists and guides to improve your foreign trade operations.",
+    "download": "Download",
+    "level": {
+      "initial": "Initial",
+      "intermediate": "Intermediate",
+      "executive": "Executive"
+    }
+  },
+  "search": {
+    "title": "Search",
+    "placeholder": "Search articles, analysis, guides...",
+    "noResults": "No results found for",
+    "resultsFor": "Results for"
+  },
+  "press": {
+    "title": "Press",
+    "subtitle": "Bio, areas of expertise and media materials.",
+    "shortBio": "Short bio",
+    "longBio": "Long bio",
+    "topics": "Topics Germán can contribute to",
+    "photos": "Authorized photos",
+    "formTitle": "Producer contact"
+  },
+  "categories": {
+    "news": "News",
+    "analysis": "Analysis",
+    "guides": "Guides",
+    "opinion": "Opinion",
+    "cases": "Cases and learnings",
+    "multimedia": "Multimedia"
+  },
+  "topics": {
+    "logistics": "International logistics",
+    "supplyChain": "Supply chain",
+    "customs": "Customs and regulation",
+    "imports": "Imports",
+    "exports": "Exports",
+    "foreignCompanies": "Foreign companies",
+    "markets": "Markets and trends",
+    "ethics": "Ethics and compliance",
+    "perishables": "Perishables",
+    "tech": "Applied technology"
+  },
+  "footer": {
+    "description": "Information and analysis to make better decisions in foreign trade.",
+    "editorial": "Editorial",
+    "legal": "Legal",
+    "follow": "Follow us",
+    "privacy": "Privacy policy",
+    "terms": "Terms and conditions",
+    "editorialPolicy": "Editorial policy",
+    "sources": "Sources and corrections",
+    "copyright": "Comercio Exterior PRO. All rights reserved.",
+    "backedBy": "Backed by CargoNet Group"
+  },
+  "topicsPage": {
+    "title": "Topics",
+    "subtitle": "Explore our content by specialty."
+  },
+  "notFound": {
+    "title": "Page not found",
+    "message": "The page you're looking for doesn't exist or has been moved.",
+    "back": "Go back home"
+  },
+  "home": {
+    "germanReflection": "After decades working with international chains, I've confirmed that the most dangerous cost doesn't always appear on the tariff. It emerges when a fragmented decision generates delays, rework, or loss of predictability."
+  },
+  "common": {
+    "readMore": "Read more",
+    "loadMore": "Load more",
+    "backToList": "Back",
+    "filter": "Filter",
+    "all": "All",
+    "close": "Close",
+    "skipToContent": "Skip to content"
+  }
+}

@@ -1,0 +1,51 @@
+[
+  {
+    "file": "cadena-fragmentada.jpg",
+    "source": "Unsplash",
+    "author": "CHUTTERSNAP",
+    "url": "https://unsplash.com/photos/9cCeS9Sg6nU",
+    "license": "Unsplash License (free for commercial use)"
+  },
+  {
+    "file": "empresa-extranjera.jpg",
+    "source": "Pexels",
+    "author": "Pixabay",
+    "url": "https://www.pexels.com/photo/2070033/",
+    "license": "Pexels License (free for commercial use)"
+  },
+  {
+    "file": "importar-diagnostico.jpg",
+    "source": "Unsplash",
+    "author": "Unsplash",
+    "url": "https://unsplash.com",
+    "license": "Unsplash License (free for commercial use)"
+  },
+  {
+    "file": "logistica-end-to-end.jpg",
+    "source": "Unsplash",
+    "author": "CHUTTERSNAP",
+    "url": "https://unsplash.com",
+    "license": "Unsplash License (free for commercial use)"
+  },
+  {
+    "file": "previsibilidad.jpg",
+    "source": "Unsplash",
+    "author": "Unsplash",
+    "url": "https://unsplash.com",
+    "license": "Unsplash License (free for commercial use)"
+  },
+  {
+    "file": "perecederos.jpg",
+    "source": "Unsplash",
+    "author": "Unsplash",
+    "url": "https://unsplash.com",
+    "license": "Unsplash License (free for commercial use)"
+  },
+  {
+    "file": "hero-port.jpg",
+    "source": "Unsplash",
+    "author": "CHUTTERSNAP",
+    "url": "https://unsplash.com",
+    "license": "Unsplash License (free for commercial use)"
+  }
+]

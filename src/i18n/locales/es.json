@@ -1,0 +1,191 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "topics": "Temas",
+    "people": "Gente",
+    "news": "Actualidad",
+    "analysis": "Análisis",
+    "guides": "Guías",
+    "foreign": "Empresas extranjeras",
+    "german": "Germán Muchico",
+    "cargonet": "CargoNet Group",
+    "resources": "Recursos",
+    "contact": "Contacto",
+    "search": "Buscar",
+    "newsletter": "Newsletter",
+    "press": "Prensa",
+    "topics": "Temas"
+  },
+  "hero": {
+    "tag": "Comercio Exterior PRO",
+    "title": "Comercio exterior con criterio.",
+    "subtitle": "Análisis, guías y perspectivas para entender el comercio internacional y tomar mejores decisiones.",
+    "cta": "Recibir análisis",
+    "readMore": "Leer nota completa",
+    "mainStory": "Nota principal",
+    "secondaryStory": "Destacada"
+  },
+  "sections": {
+    "latestAnalysis": "Últimos análisis",
+    "germanView": "La mirada de Germán",
+    "tradeRadar": "Radar de comercio exterior",
+    "essentialGuides": "Guías esenciales",
+    "multimedia": "Multimedia",
+    "newsletter": "Newsletter",
+    "cargoNetBacked": "Con el respaldo de CargoNet Group",
+    "foreignCompanies": "Operar en Argentina",
+    "foreignSubtitle": "Contexto, decisiones y riesgos para empresas internacionales",
+    "viewAll": "Ver todo",
+    "viewAnalysis": "Ver análisis",
+    "viewGuides": "Ver guías"
+  },
+  "article": {
+    "by": "Por",
+    "readTime": "min de lectura",
+    "published": "Publicado",
+    "updated": "Actualizado",
+    "inLines": "En pocas líneas",
+    "sources": "Fuentes y metodología",
+    "share": "Compartir",
+    "copyLink": "Copiar enlace",
+    "linkCopied": "Enlace copiado",
+    "relatedNotes": "Notas relacionadas",
+    "reportCorrection": "Reportar una corrección",
+    "editorialNote": "Este contenido es editorial. Para conocer las soluciones de CargoNet Group",
+    "visitCargoNet": "visitar cargonetgroup.com",
+    "disclaimer": "Contenido informativo. No constituye asesoramiento legal, aduanero, fiscal ni financiero."
+  },
+  "foreignPage": {
+    "title": "Instalarse en Argentina exige más que abrir una sociedad.",
+    "subtitle": "La operación real comienza cuando estrategia, regulación, aduanas, bancos y logística funcionan como un único sistema.",
+    "panorama": "Panorama para una empresa internacional",
+    "decisions": "Decisiones previas a la radicación",
+    "actors": "Mapa de actores y dependencias",
+    "risks": "Riesgos frecuentes",
+    "methodology": "Metodología consultiva end to end",
+    "cta": "Conocer el enfoque de CargoNet Group"
+  },
+  "germanPage": {
+    "title": "Germán Muchico: una vida leyendo el movimiento del comercio global.",
+    "manifesto": "Manifiesto",
+    "timeline": "Trayectoria",
+    "expertise": "Temas de expertise",
+    "columns": "Columnas recientes"
+  },
+  "cargonetPage": {
+    "title": "Tu socio estratégico en consultoría y logística internacional",
+    "approach": "Enfoque consultivo end to end",
+    "services": "Servicios",
+    "presence": "Presencia",
+    "values": "Valores",
+    "cta": "Visitar CargoNet Group",
+    "ctaSecondary": "Realizar una consulta corporativa"
+  },
+  "contact": {
+    "title": "Contacto",
+    "editorial": "Consulta editorial o prensa",
+    "corporate": "Consulta corporativa",
+    "name": "Nombre",
+    "organization": "Organización / Medio",
+    "email": "Email",
+    "subject": "Tema",
+    "message": "Mensaje",
+    "company": "Empresa",
+    "position": "Cargo",
+    "country": "País",
+    "phone": "Teléfono (opcional)",
+    "needType": "Tipo de necesidad",
+    "privacy": "Acepto la política de privacidad",
+    "send": "Enviar",
+    "success": "Mensaje enviado correctamente",
+    "error": "Hubo un error. Intente nuevamente."
+  },
+  "newsletter": {
+    "title": "Recibir análisis",
+    "subtitle": "Una selección semanal de análisis y herramientas para decidir mejor en comercio exterior. Sin ruido y con fuentes.",
+    "emailPlaceholder": "Tu email",
+    "namePlaceholder": "Tu nombre (opcional)",
+    "conscept": "Acepto recibir la newsletter y puedo cancelar la suscripción en cualquier momento.",
+    "subscribe": "Suscribirme",
+    "success": "Gracias por suscribirte. Revisa tu email para confirmar.",
+    "error": "Hubo un error. Intente nuevamente."
+  },
+  "resources": {
+    "title": "Recursos",
+    "subtitle": "Herramientas, checklists y guías para mejorar tus operaciones de comercio exterior.",
+    "download": "Descargar",
+    "level": {
+      "initial": "Inicial",
+      "intermediate": "Intermedio",
+      "executive": "Ejecutivo"
+    }
+  },
+  "search": {
+    "title": "Buscar",
+    "placeholder": "Buscar artículos, análisis, guías...",
+    "noResults": "No se encontraron resultados para",
+    "resultsFor": "Resultados para"
+  },
+  "press": {
+    "title": "Prensa",
+    "subtitle": "Biografía, temas de especialidad y material para medios.",
+    "shortBio": "Biografía corta",
+    "longBio": "Biografía larga",
+    "topics": "Temas sobre los que Germán puede aportar",
+    "photos": "Fotografías autorizadas",
+    "formTitle": "Contacto para productores"
+  },
+  "categories": {
+    "news": "Actualidad",
+    "analysis": "Análisis",
+    "guides": "Guías",
+    "opinion": "Opinión",
+    "cases": "Casos y aprendizajes",
+    "multimedia": "Multimedia"
+  },
+  "topics": {
+    "logistics": "Logística internacional",
+    "supplyChain": "Supply chain",
+    "customs": "Aduanas y regulación",
+    "imports": "Importaciones",
+    "exports": "Exportaciones",
+    "foreignCompanies": "Empresas extranjeras",
+    "markets": "Mercados y tendencias",
+    "ethics": "Ética y compliance",
+    "perishables": "Perecederos",
+    "tech": "Tecnología aplicada"
+  },
+  "footer": {
+    "description": "Información y análisis para decidir mejor en comercio exterior.",
+    "editorial": "Editorial",
+    "legal": "Legal",
+    "follow": "Seguinos",
+    "privacy": "Política de privacidad",
+    "terms": "Términos y condiciones",
+    "editorialPolicy": "Política editorial",
+    "sources": "Fuentes y correcciones",
+    "copyright": "Comercio Exterior PRO. Todos los derechos reservados.",
+    "backedBy": "Con el respaldo de CargoNet Group"
+  },
+  "topicsPage": {
+    "title": "Temas",
+    "subtitle": "Explorá nuestro contenido por especialidad."
+  },
+  "notFound": {
+    "title": "Página no encontrada",
+    "message": "La página que buscás no existe o fue movida.",
+    "back": "Volver al inicio"
+  },
+  "home": {
+    "germanReflection": "Después de décadas trabajando con cadenas internacionales, confirmé que el costo más peligroso no siempre figura en la tarifa. Aparece cuando una decisión fragmentada genera demoras, reprocesos o pérdida de previsibilidad."
+  },
+  "common": {
+    "readMore": "Leer más",
+    "loadMore": "Cargar más",
+    "backToList": "Volver",
+    "filter": "Filtrar",
+    "all": "Todos",
+    "close": "Cerrar",
+    "skipToContent": "Saltar al contenido"
+  }
+}
