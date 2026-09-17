@@ -1,3 +1,7 @@
+import { blogNotesActualidad } from './blog-notes-actualidad';
+import { blogNotesAnalisis } from './blog-notes-analisis';
+import { blogNotesGuias } from './blog-notes-guias';
+
 export interface Article {
   slug: string;
   title: Record<string, string>;
@@ -524,6 +528,9 @@ export const articles: Article[] = [
     },
     disclaimer: true,
   },
+  ...blogNotesActualidad,
+  ...blogNotesAnalisis,
+  ...blogNotesGuias,
 ];
 
 export function getArticleBySlug(slug: string): Article | undefined {
