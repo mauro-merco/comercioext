@@ -113,6 +113,18 @@
   "resources": {
     "title": "Recursos",
     "subtitle": "Herramientas, checklists y guías para mejorar tus operaciones de comercio exterior.",
+    "formsIntro": "Elegí la evaluación que corresponde a tu caso. Los formularios son cortos y la consulta llega directamente a nuestro equipo por WhatsApp.",
+    "navLabel": "Evaluaciones disponibles",
+    "relatedTitle": "Recursos relacionados",
+    "relatedSubtitle": "Análisis y guías para deepen el contexto antes de tomar una decisión.",
+    "read": "Leer",
+    "form": {
+      "submit": "Enviar por WhatsApp",
+      "select": "Seleccionar...",
+      "optional": "Opcional",
+      "legend": "Los campos marcados con * son obligatorios.",
+      "notice": "Al enviar se abre WhatsApp con tu consulta ya redactada. Este sitio no almacena tus datos."
+    },
     "download": "Descargar",
     "level": {
       "initial": "Inicial",

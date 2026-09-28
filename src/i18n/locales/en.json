@@ -113,6 +113,18 @@
   "resources": {
     "title": "Resources",
     "subtitle": "Tools, checklists and guides to improve your foreign trade operations.",
+    "formsIntro": "Choose the assessment that matches your case. The forms are short and the enquiry reaches our team directly on WhatsApp.",
+    "navLabel": "Available assessments",
+    "relatedTitle": "Related resources",
+    "relatedSubtitle": "Analysis and guides to deepen the context before making a decision.",
+    "read": "Read",
+    "form": {
+      "submit": "Send via WhatsApp",
+      "select": "Select...",
+      "optional": "Optional",
+      "legend": "Fields marked with * are required.",
+      "notice": "On submit, WhatsApp opens with your enquiry already drafted. This site does not store your data."
+    },
     "download": "Download",
     "level": {
       "initial": "Initial",
